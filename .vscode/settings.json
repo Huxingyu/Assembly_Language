@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.cpp": "cpp",
+        "*.m": "matlab",
+        "reg52.h": "c"
+    }
+}
